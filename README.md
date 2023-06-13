@@ -1,16 +1,16 @@
-### Hi there 👋
+### HELLO THERE 👋 I'M WIEM BEN MLOUKA
 
-<!--
-**wiem2000/wiem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Software Engineer | 🌐 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about creating innovative software solutions and building robust applications.
+
+🌱 Currently software engineering student at INSAT
+
+🚀 Constantly learning and exploring new technologies to enhance my skills and knowledge.
+
+💬 Feel free to reach out to me for collaborations, project ideas, or just to say hi!
+
+📫 You can connect with me on LinkedIn or email me at [wiembenmlouka@gmail.com].
+
+⚡️ "Code is like art. It is created with passion, crafted with precision, and shared with the world." - Unknown
